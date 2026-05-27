@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersender",
+        "uuid": 8063906,
+        "checksum": "h46ra"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
